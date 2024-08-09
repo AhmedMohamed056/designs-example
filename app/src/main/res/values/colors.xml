@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="papa">#2A45DC</color>
+    <color name="caca">#45E91E63</color>
+    <color name="sasa">#614CAF50</color>
+    <color name="vava">#773F51B5</color>
+    <color name="green">#2AAF2F</color>
+    <color name="caca2">#D0F33475</color>
+    <color name="caca3">#4D65EC</color>
+</resources>
